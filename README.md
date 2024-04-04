@@ -4,8 +4,23 @@
 
 # Requisitos:
 
+### Foi utilizadas as seguintes tecnologias
+
+- IDE Eclipse
+
 - jdk 17
 
+- Spring Boot 3.2.4
+
+- Banco de dados em memoria HSQLDB
+
+- Realizados testes dos end points utilizando Insomnia (Deixei para testes da Api o arquivo JSon do insomnia)
+
+### como realizar o import para testes dos end points:
+
+  Basta realizar o download gratuito do Insomnia , ao realizar a instalação clique em "create" ,em seguida clique em "import" , você pode arrastar e soltar o arquivo ou localizar o diretorio, em seguida clique em "Scan" , vai ser importado a workspace configurada".
+  
+  
 
 # Sobre o projeto
 
